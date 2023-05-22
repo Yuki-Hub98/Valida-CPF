@@ -6,4 +6,4 @@ Um CPF é uma sequência de 9 dígitos, seguidos de 2 digitos verificados.
 
 [Formula para Calcular CPF](https://www.calculadorafacil.com.br/computacao/validar-cpf)
 
-Para verificar se seu CPF é válido, basta você digitar seu CPF, com pontos ou não, na função.
+Levando em conta essa formula, criei um algoritmo para verificar se seu CPF é válido, basta você digitar seu CPF, com pontos ou não, na função.
